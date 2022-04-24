@@ -35,3 +35,14 @@ A continuación se presentan algunas imágenes del sitio web brevemente descrito
 
 ![10  Nuestra estrategia_1](https://user-images.githubusercontent.com/98922137/164999012-c8448d6f-79ca-482f-9d76-1ca802b489fd.jpg)
 
+![13  Reflexión_3](https://user-images.githubusercontent.com/98922137/164999055-792f458b-99db-4103-a5d5-f9383bf76778.jpg)
+
+![15  Actividades_2](https://user-images.githubusercontent.com/98922137/164999056-9e0f7f3f-fe9d-4816-9c99-335b3c6aea9b.jpg)
+
+![16  Actividades_3](https://user-images.githubusercontent.com/98922137/164999058-e4cab01d-fabf-4202-9711-43b166a7ffb6.jpg)
+
+![19  Contacto_3](https://user-images.githubusercontent.com/98922137/164999079-bbbdaf7a-e3e6-4d0a-b3a3-ce4d42ef9bbd.jpg)
+
+![20  Contacto_4](https://user-images.githubusercontent.com/98922137/164999081-67a80ff7-6afb-42fd-8db2-972722314c19.jpg)
+
+![22  Contacto_6](https://user-images.githubusercontent.com/98922137/164999082-b9b92669-4736-4829-97db-4c9b517fe71f.jpg)
