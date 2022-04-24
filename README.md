@@ -45,4 +45,5 @@ A continuación se presentan algunas imágenes del sitio web brevemente descrito
 
 ![20  Contacto_4](https://user-images.githubusercontent.com/98922137/164999081-67a80ff7-6afb-42fd-8db2-972722314c19.jpg)
 
-![22  Contacto_6](https://user-images.githubusercontent.com/98922137/164999082-b9b92669-4736-4829-97db-4c9b517fe71f.jpg)
+![22  Contacto_6](https://user-images.githubusercontent.com/98922137/164999599-323c6078-854c-4408-b53e-a3aeb1dc855f.png)
+
